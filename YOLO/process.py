@@ -5,7 +5,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 print(current_dir)
 
-current_dir = 'E:\PROJECT ALL\kaggle\project\YOLO TRAINING RAJU\dataset'
+current_dir = 'D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/dataset'
 
 # Directory where the data will reside, relative to 'darknet.exe'
 #path_data = './NFPAdataset/'
@@ -14,8 +14,8 @@ current_dir = 'E:\PROJECT ALL\kaggle\project\YOLO TRAINING RAJU\dataset'
 percentage_test = 40;
 
 # Create and/or truncate train.txt and test.txt
-file_train = open('train.txt', 'w')
-file_test = open('test.txt', 'w')
+file_train = open('cat-dog-train.txt', 'w')
+file_test = open('cat-dog-test.txt', 'w')
 
 # Populate train.txt and test.txt
 counter = 1

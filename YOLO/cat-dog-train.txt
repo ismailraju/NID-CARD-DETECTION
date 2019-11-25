@@ -1,4 +1,4 @@
-E:/PROJECT ALL/kaggle/project/YOLO TRAINING RAJU/dataset/cat-1.jpg
-E:/PROJECT ALL/kaggle/project/YOLO TRAINING RAJU/dataset/cat-3.jpg
-E:/PROJECT ALL/kaggle/project/YOLO TRAINING RAJU/dataset/dog-1.jpg
-E:/PROJECT ALL/kaggle/project/YOLO TRAINING RAJU/dataset/dog-3.jpg
+D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\11.jpg
+D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\download.jpg
+D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\images1.jpg
+D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\smart_nid_bangaldesh.jpg

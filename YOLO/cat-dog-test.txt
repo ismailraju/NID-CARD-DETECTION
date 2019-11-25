@@ -1,4 +1,3 @@
-E:/PROJECT ALL/kaggle/project/YOLO TRAINING RAJU/dataset/cat-2.jpg
-E:/PROJECT ALL/kaggle/project/YOLO TRAINING RAJU/dataset/cat-4.jpg
-E:/PROJECT ALL/kaggle/project/YOLO TRAINING RAJU/dataset/dog-2.jpg
-E:/PROJECT ALL/kaggle/project/YOLO TRAINING RAJU/dataset/dog-4.jpg
+D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\1574675164747.jpg
+D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\download1.jpg
+D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\images3.jpg
