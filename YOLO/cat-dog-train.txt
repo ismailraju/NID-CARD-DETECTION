@@ -1,4 +1,4 @@
-D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\11.jpg
-D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\download.jpg
-D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\images1.jpg
-D:\PROJECTS\Python\NID-CARD-DETECTION\YOLO\dataset\smart_nid_bangaldesh.jpg
+D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/dataset\11.jpg
+D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/dataset\download.jpg
+D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/dataset\images1.jpg
+D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/dataset\smart_nid_bangaldesh.jpg

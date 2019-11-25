@@ -22,4 +22,4 @@ darknet_no_gpu.exe  detector test data/cat-dog-obj.data cfg/cat-dog-tiny-yolo.cf
 
 
 
-darknet_no_gpu.exe  detector test D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/data/cat-dog-obj.data D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/cfg/cat-dog-tiny-yolo.cfg D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/backup/cat-dog-tiny-yolo_final.weights D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/nid.jpg
+darknet_no_gpu.exe  detector test D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/data/cat-dog-obj.data D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/cfg/cat-dog-tiny-yolo.cfg D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/backup/cat-dog-tiny-yolo_final.weights D:/PROJECTS/Python/NID-CARD-DETECTION/YOLO/nid.jpg  -thresh 0
