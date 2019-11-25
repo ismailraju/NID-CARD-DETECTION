@@ -1,0 +1,5 @@
+classes= 2 
+train  = cat-dog-train.txt  
+valid  = cat-dog-test.txt  
+names = data/cat-dog-obj.names  
+backup = backup/
